@@ -68,3 +68,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 "# Restaurant_Search_Web_App" 
 "# Food_Search_Web_App" 
+"# Food-Search-Web-App" 
